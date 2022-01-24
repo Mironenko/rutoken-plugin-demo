@@ -1,5 +1,7 @@
 # Рутокен плагин демо
 
+We test new subtree merge.
+
 Демонстрирует работу с Рутокен плагин. Посмотреть демо можно по [ссылке](https://aktivco.github.io/rutoken-plugin-demo/).
 
 Для работы с плагином используется [модуль-обертка](https://github.com/AktivCo/rutoken-plugin-js), 
